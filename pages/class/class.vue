@@ -139,7 +139,9 @@ export default {
 					});
 				}
 			}
-			this.showLoading = false
+			this.$nextTick(() => {
+				this.showLoading = false
+			})
 		}
 	}
 };
