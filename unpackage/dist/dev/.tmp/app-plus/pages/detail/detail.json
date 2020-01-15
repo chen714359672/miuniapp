@@ -1,0 +1,16 @@
+{
+  "scrollIndicator": "none",
+  "bounce": "none",
+  "titleNView": {
+    "type": "transparent",
+    "buttons": [
+      {
+        "type": "menu"
+      }
+    ]
+  },
+  "usingComponents": {
+    "swiper-image": "/components/index/swiper-image",
+    "price": "/components/common/price"
+  }
+}

@@ -6,7 +6,8 @@
     "pages/my/my",
     "components/index/swiper-image",
     "pages/search/search",
-    "pages/search-list/search-list"
+    "pages/search-list/search-list",
+    "pages/detail/detail"
   ],
   "window": {
     "navigationBarTextStyle": "black",

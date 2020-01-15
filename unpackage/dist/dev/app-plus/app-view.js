@@ -1079,6 +1079,8 @@ function gz$gwx_2(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_2)return __WXML_GLOBAL__.ops_cached.$gwx_2
 __WXML_GLOBAL__.ops_cached.$gwx_2=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
+Z([3,'__e'])
+Z([[4],[[5],[[4],[[5],[[5],[1,'tap']],[[4],[[5],[[4],[[5],[1,'openDatail']]]]]]]]])
 Z([3,'width:372.5rpx;'])
 Z([3,'widthFix'])
 Z([[6],[[7],[3,'item']],[3,'cover']])
@@ -1166,15 +1168,16 @@ __WXML_GLOBAL__.ops_cached.$gwx_8=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
 Z([1,1000])
 Z([1,3000])
+Z([[7],[3,'getStyle']])
 Z([3,'index'])
 Z([3,'item'])
 Z([[7],[3,'swipers']])
-Z(z[2])
+Z(z[3])
 Z([3,'__e'])
 Z([3,'swiper-item'])
-Z([[4],[[5],[[4],[[5],[[5],[1,'tap']],[[4],[[5],[[4],[[5],[[5],[[5],[1,'event']],[[4],[[5],[1,'$0']]]],[[4],[[5],[[4],[[5],[[4],[[5],[[5],[[5],[1,'swipers']],[1,'']],[[7],[3,'index']]]]]]]]]]]]]]]])
+Z([[4],[[5],[[4],[[5],[[5],[1,'tap']],[[4],[[5],[[4],[[5],[[5],[[5],[1,'event']],[[4],[[5],[[5],[1,'$0']],[[7],[3,'index']]]]],[[4],[[5],[[4],[[5],[[4],[[5],[[5],[[5],[1,'swipers']],[1,'']],[[7],[3,'index']]]]]]]]]]]]]]]])
 Z([[6],[[7],[3,'item']],[3,'src']])
-Z([3,'height:350rpx;'])
+Z(z[2])
 })(__WXML_GLOBAL__.ops_cached.$gwx_8);return __WXML_GLOBAL__.ops_cached.$gwx_8
 }
 function gz$gwx_9(){
@@ -1368,6 +1371,25 @@ function gz$gwx_18(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_18)return __WXML_GLOBAL__.ops_cached.$gwx_18
 __WXML_GLOBAL__.ops_cached.$gwx_18=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
+Z([3,'__l'])
+Z([3,'750'])
+Z([[7],[3,'banners']])
+Z([3,'1'])
+Z([3,'p-2'])
+Z([3,'font-lg'])
+Z([3,'我是标题'])
+Z([3,'font text-light-muted mb-3 line-h-sm'])
+Z([3,'我是描述'])
+Z(z[0])
+Z([3,'2'])
+Z([[4],[[5],[1,'default']]])
+Z([3,'3500'])
+})(__WXML_GLOBAL__.ops_cached.$gwx_18);return __WXML_GLOBAL__.ops_cached.$gwx_18
+}
+function gz$gwx_19(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_19)return __WXML_GLOBAL__.ops_cached.$gwx_19
+__WXML_GLOBAL__.ops_cached.$gwx_19=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
 Z([3,'border-bottom scroll-row'])
 Z([[7],[3,'srcollinto']])
 Z([1,true])
@@ -1432,17 +1454,17 @@ Z([[7],[3,'item2']])
 Z([[2,'+'],[[2,'+'],[[2,'+'],[[2,'+'],[[2,'+'],[1,'7-'],[[7],[3,'index']]],[1,'-']],[[7],[3,'listIndex']]],[1,'-']],[[7],[3,'index2']]])
 Z([3,'d-flex a-center j-center text-light-muted font-md py-3'])
 Z([3,'上拉加载更多'])
-})(__WXML_GLOBAL__.ops_cached.$gwx_18);return __WXML_GLOBAL__.ops_cached.$gwx_18
-}
-function gz$gwx_19(){
-if( __WXML_GLOBAL__.ops_cached.$gwx_19)return __WXML_GLOBAL__.ops_cached.$gwx_19
-__WXML_GLOBAL__.ops_cached.$gwx_19=[];
-(function(z){var a=11;function Z(ops){z.push(ops)}
 })(__WXML_GLOBAL__.ops_cached.$gwx_19);return __WXML_GLOBAL__.ops_cached.$gwx_19
 }
 function gz$gwx_20(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_20)return __WXML_GLOBAL__.ops_cached.$gwx_20
 __WXML_GLOBAL__.ops_cached.$gwx_20=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
+})(__WXML_GLOBAL__.ops_cached.$gwx_20);return __WXML_GLOBAL__.ops_cached.$gwx_20
+}
+function gz$gwx_21(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_21)return __WXML_GLOBAL__.ops_cached.$gwx_21
+__WXML_GLOBAL__.ops_cached.$gwx_21=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
 Z([3,'d-flex border-top border-bottom a-center'])
 Z([3,'height:100rpx;'])
@@ -1496,11 +1518,11 @@ Z(z[17])
 Z([[7],[3,'index']])
 Z([[7],[3,'item']])
 Z([[2,'+'],[1,'4-'],[[7],[3,'index']]])
-})(__WXML_GLOBAL__.ops_cached.$gwx_20);return __WXML_GLOBAL__.ops_cached.$gwx_20
+})(__WXML_GLOBAL__.ops_cached.$gwx_21);return __WXML_GLOBAL__.ops_cached.$gwx_21
 }
-function gz$gwx_21(){
-if( __WXML_GLOBAL__.ops_cached.$gwx_21)return __WXML_GLOBAL__.ops_cached.$gwx_21
-__WXML_GLOBAL__.ops_cached.$gwx_21=[];
+function gz$gwx_22(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_22)return __WXML_GLOBAL__.ops_cached.$gwx_22
+__WXML_GLOBAL__.ops_cached.$gwx_22=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
 Z([3,'__l'])
 Z([3,'/static/images/demo/search-banner.png'])
@@ -1546,13 +1568,13 @@ Z(z[0])
 Z(z[16])
 Z(z[38])
 Z([[2,'+'],[[2,'+'],[1,'8'],[1,',']],[1,'6']])
-})(__WXML_GLOBAL__.ops_cached.$gwx_21);return __WXML_GLOBAL__.ops_cached.$gwx_21
+})(__WXML_GLOBAL__.ops_cached.$gwx_22);return __WXML_GLOBAL__.ops_cached.$gwx_22
 }
 __WXML_GLOBAL__.ops_set.$gwx=z;
 __WXML_GLOBAL__.ops_init.$gwx=true;
 var nv_require=function(){var nnm={};var nom={};return function(n){return function(){if(!nnm[n]) return undefined;try{if(!nom[n])nom[n]=nnm[n]();return nom[n];}catch(e){e.message=e.message.replace(/nv_/g,'');var tmp = e.stack.substring(0,e.stack.lastIndexOf(n));e.stack = tmp.substring(0,tmp.lastIndexOf('\n'));e.stack = e.stack.replace(/\snv_/g,' ');e.stack = $gstack(e.stack);e.stack += '\n    at ' + n.substring(2);console.error(e);}
 }}}()
-var x=['./components/common/card.wxml','./components/common/common-list.wxml','./components/common/divider.wxml','./components/common/loading.wxml','./components/common/price.wxml','./components/common/radio-group.wxml','./components/index/index-nav.wxml','./components/index/swiper-image.wxml','./components/index/three-adv.wxml','./components/search-list/search-list.wxml','./components/search/color-tag.wxml','./components/uni-ui/uni-badge/uni-badge.wxml','./components/uni-ui/uni-drawer/uni-drawer.wxml','./components/uni-ui/uni-icon/uni-icon.wxml','./components/uni-ui/uni-list-item/uni-list-item.wxml','./pages/cart/cart.wxml','./pages/class/class.wxml','./pages/index/index.wxml','./pages/my/my.wxml','./pages/search-list/search-list.wxml','./pages/search/search.wxml'];d_[x[0]]={}
+var x=['./components/common/card.wxml','./components/common/common-list.wxml','./components/common/divider.wxml','./components/common/loading.wxml','./components/common/price.wxml','./components/common/radio-group.wxml','./components/index/index-nav.wxml','./components/index/swiper-image.wxml','./components/index/three-adv.wxml','./components/search-list/search-list.wxml','./components/search/color-tag.wxml','./components/uni-ui/uni-badge/uni-badge.wxml','./components/uni-ui/uni-drawer/uni-drawer.wxml','./components/uni-ui/uni-icon/uni-icon.wxml','./components/uni-ui/uni-list-item/uni-list-item.wxml','./pages/cart/cart.wxml','./pages/class/class.wxml','./pages/detail/detail.wxml','./pages/index/index.wxml','./pages/my/my.wxml','./pages/search-list/search-list.wxml','./pages/search/search.wxml'];d_[x[0]]={}
 var m0=function(e,s,r,gg){
 var z=gz$gwx_1()
 var oB=_n('view')
@@ -1604,31 +1626,30 @@ e_[x[0]]={f:m0,j:[],i:[],ti:[],ic:[]}
 d_[x[1]]={}
 var m1=function(e,s,r,gg){
 var z=gz$gwx_2()
-var bO=_n('view')
-_rz(z,bO,'style',0,e,s,gg)
-var oP=_mz(z,'image',['lazyLoad',-1,'mode',1,'src',1],[],e,s,gg)
+var bO=_mz(z,'view',['bindtap',0,'data-event-opts',1,'style',1],[],e,s,gg)
+var oP=_mz(z,'image',['lazyLoad',-1,'mode',3,'src',1],[],e,s,gg)
 _(bO,oP)
 var xQ=_n('view')
-_rz(z,xQ,'class',3,e,s,gg)
+_rz(z,xQ,'class',5,e,s,gg)
 var oR=_n('view')
-_rz(z,oR,'class',4,e,s,gg)
-var fS=_oz(z,5,e,s,gg)
+_rz(z,oR,'class',6,e,s,gg)
+var fS=_oz(z,7,e,s,gg)
 _(oR,fS)
 _(xQ,oR)
 var cT=_n('text')
-_rz(z,cT,'class',6,e,s,gg)
-var hU=_oz(z,7,e,s,gg)
+_rz(z,cT,'class',8,e,s,gg)
+var hU=_oz(z,9,e,s,gg)
 _(cT,hU)
 _(xQ,cT)
 var oV=_n('view')
-_rz(z,oV,'class',8,e,s,gg)
-var cW=_mz(z,'price',['bind:__l',9,'vueId',1,'vueSlots',2],[],e,s,gg)
-var oX=_oz(z,12,e,s,gg)
+_rz(z,oV,'class',10,e,s,gg)
+var cW=_mz(z,'price',['bind:__l',11,'vueId',1,'vueSlots',2],[],e,s,gg)
+var oX=_oz(z,14,e,s,gg)
 _(cW,oX)
 _(oV,cW)
 var lY=_n('view')
-_rz(z,lY,'class',13,e,s,gg)
-var aZ=_oz(z,14,e,s,gg)
+_rz(z,lY,'class',15,e,s,gg)
+var aZ=_oz(z,16,e,s,gg)
 _(lY,aZ)
 _(oV,lY)
 _(xQ,oV)
@@ -1746,20 +1767,20 @@ d_[x[7]]={}
 var m7=function(e,s,r,gg){
 var z=gz$gwx_8()
 var o4B=_n('view')
-var l5B=_mz(z,'swiper',['autoplay',-1,'circular',-1,'indicatorDots',-1,'duration',0,'interval',1],[],e,s,gg)
+var l5B=_mz(z,'swiper',['autoplay',-1,'circular',-1,'indicatorDots',-1,'duration',0,'interval',1,'style',1],[],e,s,gg)
 var a6B=_v()
 _(l5B,a6B)
 var t7B=function(b9B,e8B,o0B,gg){
 var oBC=_n('swiper-item')
-var fCC=_mz(z,'view',['bindtap',6,'class',1,'data-event-opts',2],[],b9B,e8B,gg)
-var cDC=_mz(z,'image',['lazyLoad',-1,'src',9,'style',1],[],b9B,e8B,gg)
+var fCC=_mz(z,'view',['bindtap',7,'class',1,'data-event-opts',2],[],b9B,e8B,gg)
+var cDC=_mz(z,'image',['lazyLoad',-1,'src',10,'style',1],[],b9B,e8B,gg)
 _(fCC,cDC)
 _(oBC,fCC)
 _(o0B,oBC)
 return o0B
 }
 a6B.wxXCkey=2
-_2z(z,4,t7B,e,s,gg,a6B,'item','index','index')
+_2z(z,5,t7B,e,s,gg,a6B,'item','index','index')
 _(o4B,l5B)
 _(r,o4B)
 return r
@@ -2047,102 +2068,25 @@ d_[x[17]]={}
 var m17=function(e,s,r,gg){
 var z=gz$gwx_18()
 var c7E=_n('view')
-var o8E=_mz(z,'scroll-view',['scrollX',-1,'class',0,'scrollIntoView',1,'scrollWithAnimation',1,'style',2],[],e,s,gg)
-var l9E=_v()
-_(o8E,l9E)
-var a0E=function(eBF,tAF,bCF,gg){
-var xEF=_mz(z,'view',['bindtap',8,'class',1,'data-event-opts',2,'id',3,'style',4],[],eBF,tAF,gg)
-var oFF=_n('text')
-_rz(z,oFF,'class',13,eBF,tAF,gg)
-var fGF=_oz(z,14,eBF,tAF,gg)
-_(oFF,fGF)
-_(xEF,oFF)
-_(bCF,xEF)
-return bCF
-}
-l9E.wxXCkey=2
-_2z(z,6,a0E,e,s,gg,l9E,'item','index','index')
+var o8E=_mz(z,'swiper-image',['preview',-1,'bind:__l',0,'height',1,'swipers',1,'vueId',2],[],e,s,gg)
 _(c7E,o8E)
-var cHF=_mz(z,'swiper',['bindchange',15,'current',1,'data-event-opts',2,'duration',3,'style',4],[],e,s,gg)
-var hIF=_v()
-_(cHF,hIF)
-var oJF=function(oLF,cKF,lMF,gg){
-var tOF=_n('swiper-item')
-var ePF=_mz(z,'scroll-view',['scrollY',24,'style',1],[],oLF,cKF,gg)
-var bQF=_v()
-_(ePF,bQF)
-var oRF=function(oTF,xSF,fUF,gg){
-var hWF=_v()
-_(fUF,hWF)
-if(_oz(z,30,oTF,xSF,gg)){hWF.wxVkey=1
-var oXF=_mz(z,'swiper-image',['bind:__l',31,'swipers',1,'vueId',2],[],oTF,xSF,gg)
-_(hWF,oXF)
-}
-else{hWF.wxVkey=2
-var cYF=_v()
-_(hWF,cYF)
-if(_oz(z,34,oTF,xSF,gg)){cYF.wxVkey=1
-var oZF=_mz(z,'index-nav',['bind:__l',35,'indexnavs',1,'vueId',2],[],oTF,xSF,gg)
-_(cYF,oZF)
-var l1F=_mz(z,'divider',['bind:__l',38,'vueId',1],[],oTF,xSF,gg)
-_(cYF,l1F)
-}
-else{cYF.wxVkey=2
-var a2F=_v()
-_(cYF,a2F)
-if(_oz(z,40,oTF,xSF,gg)){a2F.wxVkey=1
-var t3F=_mz(z,'three-adv',['bind:__l',41,'threeAdv',1,'vueId',2],[],oTF,xSF,gg)
-_(a2F,t3F)
-var e4F=_mz(z,'divider',['bind:__l',44,'vueId',1],[],oTF,xSF,gg)
-_(a2F,e4F)
-}
-a2F.wxXCkey=1
-a2F.wxXCkey=3
-}
-cYF.wxXCkey=1
-cYF.wxXCkey=3
-cYF.wxXCkey=3
-}
-var b5F=_mz(z,'card',['bind:__l',46,'vueId',1,'vueSlots',2],[],oTF,xSF,gg)
-var o6F=_n('view')
-_rz(z,o6F,'slot',49,oTF,xSF,gg)
-var x7F=_oz(z,50,oTF,xSF,gg)
-_(o6F,x7F)
-_(b5F,o6F)
-var o8F=_mz(z,'image',['mode',51,'src',1],[],oTF,xSF,gg)
-_(b5F,o8F)
-_(fUF,b5F)
-var f9F=_n('view')
-_rz(z,f9F,'class',53,oTF,xSF,gg)
-var c0F=_v()
-_(f9F,c0F)
-var hAG=function(cCG,oBG,oDG,gg){
-var aFG=_mz(z,'common-list',['bind:__l',58,'index',1,'item',2,'vueId',3],[],cCG,oBG,gg)
-_(oDG,aFG)
-return oDG
-}
-c0F.wxXCkey=4
-_2z(z,56,hAG,oTF,xSF,gg,c0F,'item2','index2','index2')
-_(fUF,f9F)
-hWF.wxXCkey=1
-hWF.wxXCkey=3
-hWF.wxXCkey=3
-return fUF
-}
-bQF.wxXCkey=4
-_2z(z,28,oRF,oLF,cKF,gg,bQF,'list','listIndex','listIndex')
-var tGG=_n('view')
-_rz(z,tGG,'class',62,oLF,cKF,gg)
-var eHG=_oz(z,63,oLF,cKF,gg)
-_(tGG,eHG)
-_(ePF,tGG)
-_(tOF,ePF)
-_(lMF,tOF)
-return lMF
-}
-hIF.wxXCkey=4
-_2z(z,22,oJF,e,s,gg,hIF,'item','index','index')
-_(c7E,cHF)
+var l9E=_n('view')
+_rz(z,l9E,'class',4,e,s,gg)
+var a0E=_n('view')
+_rz(z,a0E,'class',5,e,s,gg)
+var tAF=_oz(z,6,e,s,gg)
+_(a0E,tAF)
+_(l9E,a0E)
+var eBF=_n('view')
+_rz(z,eBF,'class',7,e,s,gg)
+var bCF=_oz(z,8,e,s,gg)
+_(eBF,bCF)
+_(l9E,eBF)
+var oDF=_mz(z,'price',['bind:__l',9,'vueId',1,'vueSlots',2],[],e,s,gg)
+var xEF=_oz(z,12,e,s,gg)
+_(oDF,xEF)
+_(l9E,oDF)
+_(c7E,l9E)
 _(r,c7E)
 return r
 }
@@ -2150,134 +2094,238 @@ e_[x[17]]={f:m17,j:[],i:[],ti:[],ic:[]}
 d_[x[18]]={}
 var m18=function(e,s,r,gg){
 var z=gz$gwx_19()
-var oJG=_n('view')
-_(r,oJG)
+var fGF=_n('view')
+var cHF=_mz(z,'scroll-view',['scrollX',-1,'class',0,'scrollIntoView',1,'scrollWithAnimation',1,'style',2],[],e,s,gg)
+var hIF=_v()
+_(cHF,hIF)
+var oJF=function(oLF,cKF,lMF,gg){
+var tOF=_mz(z,'view',['bindtap',8,'class',1,'data-event-opts',2,'id',3,'style',4],[],oLF,cKF,gg)
+var ePF=_n('text')
+_rz(z,ePF,'class',13,oLF,cKF,gg)
+var bQF=_oz(z,14,oLF,cKF,gg)
+_(ePF,bQF)
+_(tOF,ePF)
+_(lMF,tOF)
+return lMF
+}
+hIF.wxXCkey=2
+_2z(z,6,oJF,e,s,gg,hIF,'item','index','index')
+_(fGF,cHF)
+var oRF=_mz(z,'swiper',['bindchange',15,'current',1,'data-event-opts',2,'duration',3,'style',4],[],e,s,gg)
+var xSF=_v()
+_(oRF,xSF)
+var oTF=function(cVF,fUF,hWF,gg){
+var cYF=_n('swiper-item')
+var oZF=_mz(z,'scroll-view',['scrollY',24,'style',1],[],cVF,fUF,gg)
+var l1F=_v()
+_(oZF,l1F)
+var a2F=function(e4F,t3F,b5F,gg){
+var x7F=_v()
+_(b5F,x7F)
+if(_oz(z,30,e4F,t3F,gg)){x7F.wxVkey=1
+var o8F=_mz(z,'swiper-image',['bind:__l',31,'swipers',1,'vueId',2],[],e4F,t3F,gg)
+_(x7F,o8F)
+}
+else{x7F.wxVkey=2
+var f9F=_v()
+_(x7F,f9F)
+if(_oz(z,34,e4F,t3F,gg)){f9F.wxVkey=1
+var c0F=_mz(z,'index-nav',['bind:__l',35,'indexnavs',1,'vueId',2],[],e4F,t3F,gg)
+_(f9F,c0F)
+var hAG=_mz(z,'divider',['bind:__l',38,'vueId',1],[],e4F,t3F,gg)
+_(f9F,hAG)
+}
+else{f9F.wxVkey=2
+var oBG=_v()
+_(f9F,oBG)
+if(_oz(z,40,e4F,t3F,gg)){oBG.wxVkey=1
+var cCG=_mz(z,'three-adv',['bind:__l',41,'threeAdv',1,'vueId',2],[],e4F,t3F,gg)
+_(oBG,cCG)
+var oDG=_mz(z,'divider',['bind:__l',44,'vueId',1],[],e4F,t3F,gg)
+_(oBG,oDG)
+}
+oBG.wxXCkey=1
+oBG.wxXCkey=3
+}
+f9F.wxXCkey=1
+f9F.wxXCkey=3
+f9F.wxXCkey=3
+}
+var lEG=_mz(z,'card',['bind:__l',46,'vueId',1,'vueSlots',2],[],e4F,t3F,gg)
+var aFG=_n('view')
+_rz(z,aFG,'slot',49,e4F,t3F,gg)
+var tGG=_oz(z,50,e4F,t3F,gg)
+_(aFG,tGG)
+_(lEG,aFG)
+var eHG=_mz(z,'image',['mode',51,'src',1],[],e4F,t3F,gg)
+_(lEG,eHG)
+_(b5F,lEG)
+var bIG=_n('view')
+_rz(z,bIG,'class',53,e4F,t3F,gg)
+var oJG=_v()
+_(bIG,oJG)
+var xKG=function(fMG,oLG,cNG,gg){
+var oPG=_mz(z,'common-list',['bind:__l',58,'index',1,'item',2,'vueId',3],[],fMG,oLG,gg)
+_(cNG,oPG)
+return cNG
+}
+oJG.wxXCkey=4
+_2z(z,56,xKG,e4F,t3F,gg,oJG,'item2','index2','index2')
+_(b5F,bIG)
+x7F.wxXCkey=1
+x7F.wxXCkey=3
+x7F.wxXCkey=3
+return b5F
+}
+l1F.wxXCkey=4
+_2z(z,28,a2F,cVF,fUF,gg,l1F,'list','listIndex','listIndex')
+var cQG=_n('view')
+_rz(z,cQG,'class',62,cVF,fUF,gg)
+var oRG=_oz(z,63,cVF,fUF,gg)
+_(cQG,oRG)
+_(oZF,cQG)
+_(cYF,oZF)
+_(hWF,cYF)
+return hWF
+}
+xSF.wxXCkey=4
+_2z(z,22,oTF,e,s,gg,xSF,'item','index','index')
+_(fGF,oRF)
+_(r,fGF)
 return r
 }
 e_[x[18]]={f:m18,j:[],i:[],ti:[],ic:[]}
 d_[x[19]]={}
 var m19=function(e,s,r,gg){
 var z=gz$gwx_20()
-var oLG=_n('view')
-var fMG=_mz(z,'view',['class',0,'style',1],[],e,s,gg)
-var cNG=_v()
-_(fMG,cNG)
-var hOG=function(cQG,oPG,oRG,gg){
-var aTG=_mz(z,'view',['bindtap',6,'class',1,'data-event-opts',2],[],cQG,oPG,gg)
-var tUG=_n('text')
-_rz(z,tUG,'class',9,cQG,oPG,gg)
-var eVG=_oz(z,10,cQG,oPG,gg)
-_(tUG,eVG)
-_(aTG,tUG)
-var bWG=_n('view')
-var oXG=_n('view')
-_rz(z,oXG,'class',11,cQG,oPG,gg)
-_(bWG,oXG)
-var xYG=_n('view')
-_rz(z,xYG,'class',12,cQG,oPG,gg)
-_(bWG,xYG)
-_(aTG,bWG)
-_(oRG,aTG)
-return oRG
-}
-cNG.wxXCkey=2
-_2z(z,4,hOG,e,s,gg,cNG,'item','index','index')
-var oZG=_mz(z,'view',['bindtap',13,'class',1,'data-event-opts',2],[],e,s,gg)
-var f1G=_oz(z,16,e,s,gg)
-_(oZG,f1G)
-_(fMG,oZG)
-_(oLG,fMG)
-var c2G=_mz(z,'uni-drawer',['bind:__l',17,'bind:close',1,'data-event-opts',2,'mode',3,'visible',4,'vueId',5,'vueSlots',6],[],e,s,gg)
-var h3G=_mz(z,'card',['bind:__l',24,'headBorderBottom',1,'headTitleWeight',2,'vueId',3,'vueSlots',4],[],e,s,gg)
-var o4G=_n('view')
-_rz(z,o4G,'slot',29,e,s,gg)
-var c5G=_oz(z,30,e,s,gg)
-_(o4G,c5G)
-_(h3G,o4G)
-var o6G=_mz(z,'zcmradio-group',['bind:__l',31,'bind:updateSelected',1,'data-event-opts',2,'label',3,'selected',4,'vueId',5],[],e,s,gg)
-_(h3G,o6G)
-_(c2G,h3G)
-var l7G=_n('view')
-_rz(z,l7G,'class',37,e,s,gg)
-var a8G=_mz(z,'view',['class',38,'hoverClass',1],[],e,s,gg)
-var t9G=_oz(z,40,e,s,gg)
-_(a8G,t9G)
-_(l7G,a8G)
-var e0G=_mz(z,'view',['class',41,'hoverClass',1],[],e,s,gg)
-var bAH=_oz(z,43,e,s,gg)
-_(e0G,bAH)
-_(l7G,e0G)
-_(c2G,l7G)
-_(oLG,c2G)
-var oBH=_v()
-_(oLG,oBH)
-var xCH=function(fEH,oDH,cFH,gg){
-var oHH=_mz(z,'search-list',['bind:__l',48,'index',1,'item',2,'vueId',3],[],fEH,oDH,gg)
-_(cFH,oHH)
-return cFH
-}
-oBH.wxXCkey=4
-_2z(z,46,xCH,e,s,gg,oBH,'item','index','index')
-_(r,oLG)
+var aTG=_n('view')
+_(r,aTG)
 return r
 }
 e_[x[19]]={f:m19,j:[],i:[],ti:[],ic:[]}
 d_[x[20]]={}
 var m20=function(e,s,r,gg){
 var z=gz$gwx_21()
-var oJH=_n('view')
-var lKH=_mz(z,'card',['bind:__l',0,'bodyCover',1,'vueId',1,'vueSlots',2],[],e,s,gg)
-var aLH=_n('view')
-_rz(z,aLH,'slot',4,e,s,gg)
-var tMH=_oz(z,5,e,s,gg)
-_(aLH,tMH)
-_(lKH,aLH)
-_(oJH,lKH)
-var eNH=_n('view')
-_rz(z,eNH,'class',6,e,s,gg)
-var bOH=_v()
-_(eNH,bOH)
-var oPH=function(oRH,xQH,fSH,gg){
-var hUH=_mz(z,'color-tag',['bind:__l',11,'item',1,'vueId',2],[],oRH,xQH,gg)
-_(fSH,hUH)
-return fSH
+var eVG=_n('view')
+var bWG=_mz(z,'view',['class',0,'style',1],[],e,s,gg)
+var oXG=_v()
+_(bWG,oXG)
+var xYG=function(f1G,oZG,c2G,gg){
+var o4G=_mz(z,'view',['bindtap',6,'class',1,'data-event-opts',2],[],f1G,oZG,gg)
+var c5G=_n('text')
+_rz(z,c5G,'class',9,f1G,oZG,gg)
+var o6G=_oz(z,10,f1G,oZG,gg)
+_(c5G,o6G)
+_(o4G,c5G)
+var l7G=_n('view')
+var a8G=_n('view')
+_rz(z,a8G,'class',11,f1G,oZG,gg)
+_(l7G,a8G)
+var t9G=_n('view')
+_rz(z,t9G,'class',12,f1G,oZG,gg)
+_(l7G,t9G)
+_(o4G,l7G)
+_(c2G,o4G)
+return c2G
 }
-bOH.wxXCkey=4
-_2z(z,9,oPH,e,s,gg,bOH,'item','index','index')
-_(oJH,eNH)
-var oVH=_mz(z,'card',['bind:__l',14,'bodyPadding',1,'headBorderBottom',2,'vueId',3,'vueSlots',4],[],e,s,gg)
-var cWH=_n('view')
-_rz(z,cWH,'slot',19,e,s,gg)
-var oXH=_oz(z,20,e,s,gg)
-_(cWH,oXH)
+oXG.wxXCkey=2
+_2z(z,4,xYG,e,s,gg,oXG,'item','index','index')
+var e0G=_mz(z,'view',['bindtap',13,'class',1,'data-event-opts',2],[],e,s,gg)
+var bAH=_oz(z,16,e,s,gg)
+_(e0G,bAH)
+_(bWG,e0G)
+_(eVG,bWG)
+var oBH=_mz(z,'uni-drawer',['bind:__l',17,'bind:close',1,'data-event-opts',2,'mode',3,'visible',4,'vueId',5,'vueSlots',6],[],e,s,gg)
+var xCH=_mz(z,'card',['bind:__l',24,'headBorderBottom',1,'headTitleWeight',2,'vueId',3,'vueSlots',4],[],e,s,gg)
+var oDH=_n('view')
+_rz(z,oDH,'slot',29,e,s,gg)
+var fEH=_oz(z,30,e,s,gg)
+_(oDH,fEH)
+_(xCH,oDH)
+var cFH=_mz(z,'zcmradio-group',['bind:__l',31,'bind:updateSelected',1,'data-event-opts',2,'label',3,'selected',4,'vueId',5],[],e,s,gg)
+_(xCH,cFH)
+_(oBH,xCH)
+var hGH=_n('view')
+_rz(z,hGH,'class',37,e,s,gg)
+var oHH=_mz(z,'view',['class',38,'hoverClass',1],[],e,s,gg)
+var cIH=_oz(z,40,e,s,gg)
+_(oHH,cIH)
+_(hGH,oHH)
+var oJH=_mz(z,'view',['class',41,'hoverClass',1],[],e,s,gg)
+var lKH=_oz(z,43,e,s,gg)
+_(oJH,lKH)
+_(hGH,oJH)
+_(oBH,hGH)
+_(eVG,oBH)
+var aLH=_v()
+_(eVG,aLH)
+var tMH=function(bOH,eNH,oPH,gg){
+var oRH=_mz(z,'search-list',['bind:__l',48,'index',1,'item',2,'vueId',3],[],bOH,eNH,gg)
+_(oPH,oRH)
+return oPH
+}
+aLH.wxXCkey=4
+_2z(z,46,tMH,e,s,gg,aLH,'item','index','index')
+_(r,eVG)
+return r
+}
+e_[x[20]]={f:m20,j:[],i:[],ti:[],ic:[]}
+d_[x[21]]={}
+var m21=function(e,s,r,gg){
+var z=gz$gwx_22()
+var cTH=_n('view')
+var hUH=_mz(z,'card',['bind:__l',0,'bodyCover',1,'vueId',1,'vueSlots',2],[],e,s,gg)
+var oVH=_n('view')
+_rz(z,oVH,'slot',4,e,s,gg)
+var cWH=_oz(z,5,e,s,gg)
 _(oVH,cWH)
+_(hUH,oVH)
+_(cTH,hUH)
+var oXH=_n('view')
+_rz(z,oXH,'class',6,e,s,gg)
 var lYH=_v()
-_(oVH,lYH)
+_(oXH,lYH)
 var aZH=function(e2H,t1H,b3H,gg){
-var x5H=_mz(z,'color-tag',['bind:__l',25,'color',1,'item',2,'vueId',3],[],e2H,t1H,gg)
+var x5H=_mz(z,'color-tag',['bind:__l',11,'item',1,'vueId',2],[],e2H,t1H,gg)
 _(b3H,x5H)
 return b3H
 }
 lYH.wxXCkey=4
-_2z(z,23,aZH,e,s,gg,lYH,'item','index','index')
-_(oJH,oVH)
-var o6H=_mz(z,'divider',['bind:__l',29,'vueId',1],[],e,s,gg)
-_(oJH,o6H)
-var f7H=_mz(z,'card',['bind:__l',31,'vueId',1,'vueSlots',2],[],e,s,gg)
-var c8H=_n('view')
-_rz(z,c8H,'slot',34,e,s,gg)
-var h9H=_oz(z,35,e,s,gg)
-_(c8H,h9H)
+_2z(z,9,aZH,e,s,gg,lYH,'item','index','index')
+_(cTH,oXH)
+var o6H=_mz(z,'card',['bind:__l',14,'bodyPadding',1,'headBorderBottom',2,'vueId',3,'vueSlots',4],[],e,s,gg)
+var f7H=_n('view')
+_rz(z,f7H,'slot',19,e,s,gg)
+var c8H=_oz(z,20,e,s,gg)
 _(f7H,c8H)
-var o0H=_mz(z,'uni-list-item',['bind:__l',36,'showArrow',1,'title',2,'vueId',3],[],e,s,gg)
-_(f7H,o0H)
-var cAI=_mz(z,'uni-list-item',['bind:__l',40,'showArrow',1,'title',2,'vueId',3],[],e,s,gg)
-_(f7H,cAI)
-_(oJH,f7H)
-_(r,oJH)
+_(o6H,f7H)
+var h9H=_v()
+_(o6H,h9H)
+var o0H=function(oBI,cAI,lCI,gg){
+var tEI=_mz(z,'color-tag',['bind:__l',25,'color',1,'item',2,'vueId',3],[],oBI,cAI,gg)
+_(lCI,tEI)
+return lCI
+}
+h9H.wxXCkey=4
+_2z(z,23,o0H,e,s,gg,h9H,'item','index','index')
+_(cTH,o6H)
+var eFI=_mz(z,'divider',['bind:__l',29,'vueId',1],[],e,s,gg)
+_(cTH,eFI)
+var bGI=_mz(z,'card',['bind:__l',31,'vueId',1,'vueSlots',2],[],e,s,gg)
+var oHI=_n('view')
+_rz(z,oHI,'slot',34,e,s,gg)
+var xII=_oz(z,35,e,s,gg)
+_(oHI,xII)
+_(bGI,oHI)
+var oJI=_mz(z,'uni-list-item',['bind:__l',36,'showArrow',1,'title',2,'vueId',3],[],e,s,gg)
+_(bGI,oJI)
+var fKI=_mz(z,'uni-list-item',['bind:__l',40,'showArrow',1,'title',2,'vueId',3],[],e,s,gg)
+_(bGI,fKI)
+_(cTH,bGI)
+_(r,cTH)
 return r
 }
-e_[x[20]]={f:m20,j:[],i:[],ti:[],ic:[]}
+e_[x[21]]={f:m21,j:[],i:[],ti:[],ic:[]}
 if(path&&e_[path]){
 window.__wxml_comp_version__=0.02
 return function(env,dd,global){$gwxc=0;var root={"tag":"wx-page"};root.children=[]
@@ -2452,6 +2500,9 @@ __wxAppCode__['pages/cart/cart.wxml']=$gwx('./pages/cart/cart.wxml');
 
 __wxAppCode__['pages/class/class.wxss']=setCssToHead([".",[1],"class-active { border-left: ",[0,8]," solid #fd6801; color: #fd6801 !important; }\n",],undefined,{path:"./pages/class/class.wxss"});    
 __wxAppCode__['pages/class/class.wxml']=$gwx('./pages/class/class.wxml');
+
+__wxAppCode__['pages/detail/detail.wxss']=undefined;    
+__wxAppCode__['pages/detail/detail.wxml']=$gwx('./pages/detail/detail.wxml');
 
 __wxAppCode__['pages/index/index.wxss']=undefined;    
 __wxAppCode__['pages/index/index.wxml']=$gwx('./pages/index/index.wxml');
