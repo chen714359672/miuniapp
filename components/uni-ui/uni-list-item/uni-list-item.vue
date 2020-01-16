@@ -10,6 +10,7 @@
 			<view class="uni-list-item__content">
 				<view class="uni-list-item__content-title">{{ title }}</view>
 				<view v-if="note" class="uni-list-item__content-note">{{ note }}</view>
+				<slot />
 			</view>
 			<view v-if="showBadge || showArrow || showSwitch" class="uni-list-item__extra">
 				<uni-badge v-if="showBadge" :type="badgeType" :text="badgeText" />
