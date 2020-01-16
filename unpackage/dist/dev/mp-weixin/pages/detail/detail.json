@@ -1,8 +1,0 @@
-{
-  "usingComponents": {
-    "swiper-image": "/components/index/swiper-image",
-    "base-info": "/components/detail/base-info",
-    "scroll-attrs": "/components/detail/scroll-attrs",
-    "uni-list-item": "/components/uni-ui/uni-list-item/uni-list-item"
-  }
-}

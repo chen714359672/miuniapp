@@ -1,1 +1,0 @@
-<view><swiper-image vue-id="1" swipers="{{banners}}" height="750" preview bind:__l="__l"></swiper-image><view class="p-2"><view class="font-lg">我是标题</view><view class="font text-light-muted mb-3 line-h-sm">我是描述</view><price vue-id="2" bind:__l="__l" vue-slots="{{['default']}}">3500</price></view></view>

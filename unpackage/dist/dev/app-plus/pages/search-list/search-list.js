@@ -1,2 +1,0 @@
-setCssToHead([".",[1],"radio-active { background: #fce0d5 !important; color: #eb7320 !important; border-color: #eb7320 !important; }\n",],undefined,{path:"./pages/search-list/search-list.wxss"})();
-document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/search-list/search-list.wxml') } }));
